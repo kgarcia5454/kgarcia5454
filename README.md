@@ -1,5 +1,5 @@
-<h1 align="center">Howdy 👋, I'm Kevin Garcia</h1>
-<h3 align="center">A passionate Software Engineer from Arizona</h3>
+![Header](./Header.png)
+----------
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://kgarcia5454.github.io/Personal-Portfolio/HTML/projects.html)
 
