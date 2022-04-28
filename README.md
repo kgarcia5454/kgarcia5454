@@ -1,7 +1,7 @@
 ![Header](./Header.png)
 ----------
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://kgarcia5454.github.io/Personal-Portfolio/HTML/projects.html)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://kgarcia5454.github.io)
 
 - 📫 How to reach me **kgarcia5454@gmail.com**
 
