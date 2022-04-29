@@ -21,7 +21,7 @@
 
 ## Stats 
   
-<p><img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=kgarcia5454&date_format=M%20j%5B%2C%20Y%5D" alt="kgarcia5454-Streaks"/> </p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kgarcia5454&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kgarcia5454&show_icons=true&locale=en&layout=compact" alt="kgarcia5454" /></p>
+![GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs?username=kgarcia5454&show_icons=true&locale=en&layout=compact)
   
